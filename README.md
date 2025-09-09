@@ -1,0 +1,1 @@
+# swapcard-attendee-extractor
